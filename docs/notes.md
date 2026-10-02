@@ -24,3 +24,4 @@ Notes and usage details for leva.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
